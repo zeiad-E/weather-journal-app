@@ -1,0 +1,11 @@
+https://ak.picdn.net/shutterstock/videos/1040227484/thumb/1.jpg
+
+https://api.openweathermap.org/data/2.5/weather?lat=35&lon=139&appid=a5f0739c3428b842f090f5807b0b6fb7
+
+
+a5f0739c3428b842f090f5807b0b6fb7
+
+
+
+
+https://api.openweathermap.org/data/2.5/weather?zip={zip code}&appid={API key}
